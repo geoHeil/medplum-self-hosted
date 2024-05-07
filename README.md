@@ -24,8 +24,6 @@ Then
     - generate the key with: `age-keygen -o key.txt`
     - set the public key in the makefile and replace the value here: `SOPS_AGE_PUBLIC_KEY=yourkey`
 
-```
-
 steps
 
 - https://www.medplum.com/docs/self-hosting/running-medplum-docker-container
