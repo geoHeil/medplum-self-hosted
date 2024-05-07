@@ -35,12 +35,20 @@ steps
 
 > Ensure you have the keyfile to decrypt the secrets!
 
+if you have secrets to decrypt
+```bash
+make secrets-decrypt
 ```
-# if you have secrets to decrypt
-# make secrets-decrypt
 
-# if you want to use make
-# make start
+if you want to use make
+
+```bash
+make start
+```
+
+otheriwse
+
+```bash
 docker compose up
 ```
 
