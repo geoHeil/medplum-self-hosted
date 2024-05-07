@@ -36,6 +36,7 @@ steps
 > Ensure you have the keyfile to decrypt the secrets!
 
 if you have secrets to decrypt
+
 ```bash
 make secrets-decrypt
 ```
